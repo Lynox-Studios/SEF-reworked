@@ -1,2 +1,2 @@
 # SEF-reworked
-sef
+se
