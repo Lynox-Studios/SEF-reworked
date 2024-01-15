@@ -1,0 +1,14 @@
+/home/runner/SEF-reworked/bin/Debug/net7.0/SEF-reworked
+/home/runner/SEF-reworked/bin/Debug/net7.0/SEF-reworked.deps.json
+/home/runner/SEF-reworked/bin/Debug/net7.0/SEF-reworked.runtimeconfig.json
+/home/runner/SEF-reworked/bin/Debug/net7.0/SEF-reworked.dll
+/home/runner/SEF-reworked/bin/Debug/net7.0/SEF-reworked.pdb
+/home/runner/SEF-reworked/obj/Debug/net7.0/SEF-reworked.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/SEF-reworked/obj/Debug/net7.0/SEF-reworked.AssemblyInfoInputs.cache
+/home/runner/SEF-reworked/obj/Debug/net7.0/SEF-reworked.AssemblyInfo.cs
+/home/runner/SEF-reworked/obj/Debug/net7.0/SEF-reworked.csproj.CoreCompileInputs.cache
+/home/runner/SEF-reworked/obj/Debug/net7.0/SEF-reworked.dll
+/home/runner/SEF-reworked/obj/Debug/net7.0/refint/SEF-reworked.dll
+/home/runner/SEF-reworked/obj/Debug/net7.0/SEF-reworked.pdb
+/home/runner/SEF-reworked/obj/Debug/net7.0/SEF-reworked.genruntimeconfig.cache
+/home/runner/SEF-reworked/obj/Debug/net7.0/ref/SEF-reworked.dll
