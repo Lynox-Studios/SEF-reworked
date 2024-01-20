@@ -1,4 +1,3 @@
-using System;
 
 namespace SEF {
   public static class Testing {
@@ -11,6 +10,8 @@ namespace SEF {
       #cx=0x64
       *0x0
       """;
+      Console.ForegroundColor = ConsoleColor.Cyan;
+      
     }
   }
 }
